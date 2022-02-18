@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SammyBear2015
+- 👀 I’m interested in ... Coding.
+- 🌱 I’m currently learning ... JS, Roblox Studio (LUA), Java.
